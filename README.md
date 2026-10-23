@@ -1,64 +1,48 @@
-# README.md
+# Hi, I'm Sujan Sawant 👋
 
-# Welcome to Sujan Sawant's GitHub Repository!
-Hello! I'm Sujan Sawant, An aspiring data analyst well-informed in the latest advancements in data analytics. This repository serves as a showcase of my projects, skills, and contributions in the field of technology.
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Data%20%26%20Analytics%20roles-brightgreen)
+![Location](https://img.shields.io/badge/Mumbai%2C%20India-lightgrey)
 
-# About Me (Aspiring Data Analyst / Data Scientist)
-I graduated in 2022 with B.E in Mechanical Engineering and spent 1 year honing my skills at Bharat Petroleum Corporation Limited (BPCL) as Engineering Intern. Following this, I took a deliberate career break of over 6 months to focus on enhancing my skills in Data Analytics. Currently, I'm eagerly seeking new opportunities in data analytics to contribute my skills and expertise in leveraging data-driven insights for impactful decision-making and business growth.
+I'm moving into data analytics from a B2B sales and partnerships background. I build SQL, Power BI and Python projects that turn raw data into clear business answers, and I'm looking for **Data Analyst, Business Analyst, Product Analyst, Data Scientist and ML Engineer** roles.
 
-# Skills
+- 🎓 B.E. Mechanical Engineering (University of Mumbai) · Data Science & Machine Learning at Scaler
+- 🏭 Data internship at **BPCL**: monitored and validated a dashboard of 115+ KPIs
+- 🤝 Senior-level partnerships at **Synnex Group**: closed sponsorship deals worth about ₹50 lakh
+- 📍 Mumbai, India
 
-**SQL Expertise**
+---
 
-- **Basic Syntax:** Familiar with SQL syntax for data retrieval, manipulation, and analysis.
-- **Advanced Techniques:** Knowledge in joins, subqueries, aggregation, filtering, sorting, window functions, transformation, validation, cleaning, and performance optimization.
+## 🛠️ Skills
 
+| Area | Tools |
+|---|---|
+| **SQL** | PostgreSQL, joins, CTEs, subqueries, window functions, CASE WHEN, aggregations |
+| **BI & Reporting** | Power BI (DAX, Power Query, data modelling), Tableau, Advanced Excel |
+| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost |
+| **Machine Learning** | Classification, regression, time series (ARIMA, SARIMA, Prophet), NLP, neural networks (TensorFlow/Keras) |
+| **Statistics** | Hypothesis testing (t-test, ANOVA, chi-square, Kruskal-Wallis), correlation, descriptive statistics |
 
-**Power BI**
+---
 
-- **Visualization and Analysis:** Knowledge in data cleaning, visualization, ETL, and dashboard creation using Power BI.
-- **Proficient in DAX and Power Query:** Skilled in writing complex queries and calculations using DAX and Power Query.
+## 🚀 Featured Projects
 
-**Tableau**
+| Project | What it does | Tools |
+|---|---|---|
+| [**SuFinEx: Financial Intelligence Platform**](https://github.com/Sujan-Sawant/SuFinex-Financial-Intelligence-Platform) | End-to-end fraud-risk analytics on synthetic data: 16-table PostgreSQL database, 100,000 transactions, fraud models (final model: **97.25% recall, 99.28% ROC-AUC**) and a 7-page Power BI dashboard. [Dashboard screenshots](https://github.com/Sujan-Sawant/SuFinex-Financial-Intelligence-Platform/tree/main/dashboards) | SQL, PostgreSQL, Python, ML, Power BI |
+| [**Target Brazil E-commerce Analysis**](https://github.com/Sujan-Sawant/SQL-Case-Studies) | Analysed about 100,000 orders across 8 tables: seasonality, delivery performance by state (about 8 days in Sao Paulo vs about 23 in Para), payment behaviour. | SQL |
+| [**Zomato Executive Dashboard**](https://github.com/Sujan-Sawant/Zomato-PowerBI-Executive-Dashboard) | Interactive 8-page dashboard on orders, revenue, restaurants, customers, delivery, payments and reviews for a Zomato-style dataset of 100,000+ orders. | Power BI, DAX, Power Query |
+| [**Yulu Business Case Study**](https://github.com/Sujan-Sawant/Hypothesis_Testing-Yulu_Business_Case_Study) | Hypothesis testing on 10,886 hourly bike-rental records to find what drives demand (working day, season, weather). | Python, Statistics |
+| [**OLA Driver Attrition Prediction**](https://github.com/Sujan-Sawant/OLA-Driver-Attrition-Prediction-) | Predicting which drivers are likely to leave using machine learning. | Python, Scikit-learn |
+| [**Porter Delivery Time Estimation**](https://github.com/Sujan-Sawant/Porter-Delivery-Time-Estimation) | Neural-network regression on 175,777 orders to estimate delivery time, tuned with Keras Tuner. | Python, TensorFlow/Keras |
 
-- **Visualization and Analysis:** Expertise in creating visually appealing and insightful data visualizations, conducting thorough data cleaning, performing ETL processes, and designing interactive dashboards using Tableau.
-- **Advanced Calculations:** Proficient in Tableau Calculations including aggregations, conditional logic, and statistical calculations to derive meaningful insights from data.
-- **Advanced Dashboard Interactivity:** Skillful in implementing advanced interactivity features such as filters, parameters, and actions to enhance user experience and facilitate data exploration.
-- **Proficient in Tableau Calculations and LOD Expressions:** Knowledge in writing complex calculations and Level of Detail (LOD) expressions for in-depth analysis.
+**More work**
 
-**Python**
+- [AdEase Time Series](https://github.com/Sujan-Sawant/AdEase-Time-Series): forecasting Wikipedia page traffic with ARIMA, SARIMA, SARIMAX and Prophet (tuned SARIMA MAPE about 3 to 4% on Spanish and English pages)
+- [FlipItNews NLP Case Study](https://github.com/Sujan-Sawant/FlipItNews-NLP-Case-Study): classifying 2,225 news articles into 5 categories (Naive Bayes reached 96.6% accuracy)
 
-- **Data Analysis and Manipulation:** Proficient in using pandas and numpy for data manipulation and analysis tasks.
-- **Regular Expressions:** Familiar with data wrangling using regular expressions.
-- **Matplotlib and Seaborn:** Skilled in data visualization using Matplotlib and Seaborn.
+---
 
-**Excel**
+## 📫 Let's connect
 
-- **Data Analysis and Visualization:** Familiar with various Excel functionalities, including data cleaning, formatting, formulas, charts, pivot tables, and data validation.
-
-**Statistical Analysis**
-
-- **Descriptive Statistics:** Understanding and summarizing the main features of a dataset, such as mean, median, mode, variance, and standard deviation.
-
-
-**Hypothesis Testing:**
-
-- **Fundamentals:** Understand null and alternative hypotheses, significance levels, and p-values.  
-  Familiar with tests like Z-test, t-tests, chi-square tests, Pearson, Spearman, and ANOVA.
-  
-- **Execution:** Choose appropriate tests based on data type and assumptions.  
-  Conduct tests and interpret results using statistical tools or software.
-  
-- **Interpretation:** Analyze results, understand confidence intervals, effect sizes, and p-values.  
-  Recognize Type I and Type II errors.
-
-- **Practical Application:** Validate assumptions for tests and apply methods to real-world problems.  
-  Use power analysis and handle multiple comparisons effectively.
-
-- **Reporting:** Communicate findings clearly and use results for data-driven decisions.
-
-
-<!---
-Sujan-Sawant/Sujan-Sawant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 [LinkedIn](https://www.linkedin.com/in/sujan-sawant-6238aa234)
+- 📧 [sujansawant2000@gmail.com](mailto:sujansawant2000@gmail.com)
