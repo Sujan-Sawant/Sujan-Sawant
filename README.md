@@ -19,7 +19,10 @@ I'm moving into data analytics from a B2B sales and partnerships background. I b
 | **SQL** | PostgreSQL, joins, CTEs, subqueries, window functions, CASE WHEN, aggregations |
 | **BI & Reporting** | Power BI (DAX, Power Query, data modelling), Tableau, Advanced Excel |
 | **Python** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost |
-| **Machine Learning** | Classification, regression, time series (ARIMA, SARIMA, Prophet), NLP, neural networks (TensorFlow/Keras) |
+| **Machine Learning** | Classification, regression, time series (ARIMA, SARIMA, Prophet), recommendation systems |
+| **Deep Learning** | Neural networks (TensorFlow/Keras) |
+| **Computer Vision** | Image classification |
+| **NLP** | Text preprocessing (NLTK), Bag of Words / TF-IDF, text classification |
 | **Statistics** | Hypothesis testing (t-test, ANOVA, chi-square, Kruskal-Wallis), correlation, descriptive statistics |
 
 ---
@@ -34,11 +37,10 @@ I'm moving into data analytics from a B2B sales and partnerships background. I b
 | [**Yulu Business Case Study**](https://github.com/Sujan-Sawant/Hypothesis_Testing-Yulu_Business_Case_Study) | Hypothesis testing on 10,886 hourly bike-rental records to find what drives demand (working day, season, weather). | Python, Statistics |
 | [**OLA Driver Attrition Prediction**](https://github.com/Sujan-Sawant/OLA-Driver-Attrition-Prediction-) | Predicting which drivers are likely to leave using machine learning. | Python, Scikit-learn |
 | [**Porter Delivery Time Estimation**](https://github.com/Sujan-Sawant/Porter-Delivery-Time-Estimation) | Neural-network regression on 175,777 orders to estimate delivery time, tuned with Keras Tuner. | Python, TensorFlow/Keras |
-
-**More work**
-
-- [AdEase Time Series](https://github.com/Sujan-Sawant/AdEase-Time-Series): forecasting Wikipedia page traffic with ARIMA, SARIMA, SARIMAX and Prophet (tuned SARIMA MAPE about 3 to 4% on Spanish and English pages)
-- [FlipItNews NLP Case Study](https://github.com/Sujan-Sawant/FlipItNews-NLP-Case-Study): classifying 2,225 news articles into 5 categories (Naive Bayes reached 96.6% accuracy)
+| [**AdEase Time Series**](https://github.com/Sujan-Sawant/AdEase-Time-Series) | Forecasting Wikipedia page traffic with ARIMA, SARIMA, SARIMAX and Prophet (tuned SARIMA MAPE about 3 to 4% on Spanish and English pages). | Python, Time Series |
+| [**FlipItNews NLP Case Study**](https://github.com/Sujan-Sawant/FlipItNews-NLP-Case-Study) | Classifying 2,225 news articles into 5 categories using text preprocessing, Bag of Words / TF-IDF and classical models (Naive Bayes reached 96.6% accuracy). | Python, NLP, NLTK |
+| [**Zee Personalized Recommendation System**](https://github.com/Sujan-Sawant/Zee-Recommender-System) | Movie recommender using collaborative filtering (user-based and item-based) with cosine similarity and Pearson correlation, plus EDA and evaluation of user behaviour patterns. | Python, Pandas, NumPy, Scikit-learn |
+| [**Ninjacart Vegetable Image Classification**](https://github.com/Sujan-Sawant/Ninjacart-Vegetable-Image-Classification) | Multi-class image classifier for onion, potato and tomato that filters non-vegetable market images as noise, using data augmentation and confusion-matrix evaluation. | Python, Scikit-learn, Computer Vision |
 
 ---
 
